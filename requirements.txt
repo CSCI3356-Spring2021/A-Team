@@ -3,7 +3,7 @@ absl-py==0.11.0
 #anaconda-client==1.7.2
 #anaconda-navigator==2.0.3
 #anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1610472525955/work
-anyio @ file:///opt/concourse/worker/volumes/live/64740ac7-3a9c-4fbb-6685-a51c4ff8b4ca/volume/anyio_1617783319350/work/dist
+#anyio @ file:///opt/concourse/worker/volumes/live/64740ac7-3a9c-4fbb-6685-a51c4ff8b4ca/volume/anyio_1617783319350/work/dist
 appdirs==1.4.4
 applaunchservices==0.2.1
 appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
