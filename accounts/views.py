@@ -268,7 +268,7 @@ def profile(request, user):
     buyerRate = currentUser.buyer_rating
     sellerRate = currentUser.seller_rating
     buyer_n = currentUser.buyer_count
-    seller_n = cuurentUser.seller_count
+    seller_n = currentUser.seller_count
 
     if buyer_n ==0:
         buyer_n = buyer_n+1
